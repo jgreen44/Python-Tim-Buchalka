@@ -38,6 +38,7 @@ print(kenwwood.power)
 # print(hamilton.power)
 
 print(Kettle.power_source)
+kenwwood.power_source = 'gas'
 print(kenwwood.power_source)
 print(hamilton.power_source)
 
